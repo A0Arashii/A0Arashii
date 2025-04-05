@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffe1,100:8cfe01&height=180&text=Hi,%20I'm%20A0Arashii&animation=&fontColor=ffffff&fontSize=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffe1,100:8cfe01&height=180&text=Hi,%20I'm%20Seung_gi&animation=&fontColor=ffffff&fontSize=60" />
 </div>
 
 <div align="center"> 
