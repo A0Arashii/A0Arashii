@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋
 
 <!--
 **A0Arashii/A0Arashii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
